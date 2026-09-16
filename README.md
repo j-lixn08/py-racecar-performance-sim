@@ -3,7 +3,8 @@ A basic vehicle performance simulator, written using Python and appropriate libr
 
 The sim provides a GUI for the user.
 
-GUI: built with Tkinter 
+GUI: built with Tkinter
+
 Matplotlib: Displays simulated vehicle performance
 
 ## Features
