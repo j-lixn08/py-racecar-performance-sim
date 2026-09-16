@@ -1,7 +1,7 @@
 # py-racecar-performance-sim
-A basic vehicle performance simulator, written using Python and appropriate libraries, entirely by me. It recieves inputs from the user which is then converted into a real-time graph display. It models vehicle acceleration as well as maximum velocity, as well as the time it takes to get to max. velocity, etc.
+A VERY simple and basic racecar performance simulator, written using Python and appropriate libraries, by me. It recieves inputs from the user which is then converted into a real-time graph display. It models vehicle acceleration as well as maximum velocity, as well as the time it takes to get to max. velocity, etc.
 
-The sim provides a GUI for the user.
+The sim provides a GUI for the user, as it will become more accessible this way.
 
 GUI: built with Tkinter
 
